@@ -1,20 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on My New Hugo Site</title>
-    <link>http://imgone98.com/post/index.xml</link>
-    <description>Recent content in Post-rsses on My New Hugo Site</description>
+    <title>Posts on ImGone98</title>
+    <link>http://imgone98.com/post/</link>
+    <description>Recent content in Posts on ImGone98</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2016 08:54:17 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 14:50:21 -0600</lastBuildDate>
     <atom:link href="http://imgone98.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>temporary site</title>
-      <link>http://imgone98.com/post/temporary-site/</link>
-      <pubDate>Wed, 14 Dec 2016 08:54:17 -0600</pubDate>
+      <title>Temporary Adventures</title>
+      <link>http://imgone98.com/post/adventures/Temporary-Adventures/</link>
+      <pubDate>Fri, 23 Dec 2016 14:50:21 -0600</pubDate>
       
-      <guid>http://imgone98.com/post/temporary-site/</guid>
+      <guid>http://imgone98.com/post/adventures/Temporary-Adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporary Nerd</title>
+      <link>http://imgone98.com/post/nerd/Temporary-Nerd/</link>
+      <pubDate>Fri, 23 Dec 2016 14:50:03 -0600</pubDate>
+      
+      <guid>http://imgone98.com/post/nerd/Temporary-Nerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporary History Religion</title>
+      <link>http://imgone98.com/post/history-religion/Temporary-History-Religion/</link>
+      <pubDate>Fri, 23 Dec 2016 14:49:50 -0600</pubDate>
+      
+      <guid>http://imgone98.com/post/history-religion/Temporary-History-Religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporary Introspection</title>
+      <link>http://imgone98.com/post/introspection/Temporary-Introspection/</link>
+      <pubDate>Fri, 23 Dec 2016 14:48:58 -0600</pubDate>
+      
+      <guid>http://imgone98.com/post/introspection/Temporary-Introspection/</guid>
       <description></description>
     </item>
     

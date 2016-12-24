@@ -3,17 +3,33 @@
   
   <url>
     <loc>http://imgone98.com/</loc>
-    <lastmod>2016-12-14T08:54:21-06:00</lastmod>
+    <lastmod>2016-12-23T14:50:21-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://imgone98.com/post/adventures/Temporary-Adventures/</loc>
+    <lastmod>2016-12-23T14:50:21-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imgone98.com/post/nerd/Temporary-Nerd/</loc>
+    <lastmod>2016-12-23T14:50:03-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imgone98.com/post/history-religion/Temporary-History-Religion/</loc>
+    <lastmod>2016-12-23T14:49:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://imgone98.com/post/introspection/Temporary-Introspection/</loc>
+    <lastmod>2016-12-23T14:48:58-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://imgone98.com/about/</loc>
-    <lastmod>2016-12-14T08:54:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://imgone98.com/post/temporary-site/</loc>
-    <lastmod>2016-12-14T08:54:17-06:00</lastmod>
+    <lastmod>2016-12-23T14:46:12-06:00</lastmod>
   </url>
   
 </urlset>
