@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introspection on ImGone98</title>
-    <link>http://imgone98.com/categories/introspection/</link>
-    <description>Recent content in Introspection on ImGone98</description>
+    <title>Misc on ImGone98</title>
+    <link>http://imgone98.com/categories/misc/</link>
+    <description>Recent content in Misc on ImGone98</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 15:40:46 -0600</lastBuildDate>
-    <atom:link href="http://imgone98.com/categories/introspection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://imgone98.com/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introspection Ramblings</title>
